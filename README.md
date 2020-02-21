@@ -9,3 +9,7 @@ Top 2500 Casualtiy plotted
 Plot all terror attacks
 <img src = "image3.png">
 
+WeaponType Plot
+<img src = "image4.png">
+
+
